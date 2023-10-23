@@ -91,4 +91,68 @@ NaN
 
 // Output:
 // 44
-//string
+//string 
+
+/* ************************* Operations ********************** */
+
+// let value = 3;
+// let negValue = -value;
+// console.log(negValue); 
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(7%6);
+// console.log(2**3);
+
+//============================================
+
+// let str1 ="Priya";
+
+// let str2 =" darshani";
+// let str3 = str1 + str2;
+// console.log(str3);
+// console.log("1 " +  2); // 1 2
+// console.log(1 + " priya");   // 1 priya
+// console.log(2 + "1");      // 21
+// console.log("1" + 2 + 2);  // 122 => if 1st is string next everything will be converted into string
+
+// console.log(1 + 2 + "2"); // 32 =>operation will be applied on numbers before string. 
+
+// console.log(1 + 2 + "a"); // 3a
+
+// console.log((3+4)*5 % 3); // 2
+
+//======================================
+
+// console.log(true);   //true
+// console.log(+true); // 1
+//console.log(true+);  // error
+//console.log(true-); // error
+// console.log(-true); // -1
+// console.log(+""); // 0
+
+//========================================
+
+// let num1, num2, num3;
+// num1 = num2 = num3 = 2 + 2;
+// console.log(num1); //4
+// console.log(num2); //4
+// console.log(num3);  //4
+
+//======================================
+ 
+// Case -1: 
+// let gameCounter = 100
+// gameCounter++;   // 101
+// console.log(gameCounter);
+
+//case2====================
+// let gameCounter = 100
+// ++gameCounter;  //101
+
+// console.log(gameCounter);
+
+// link  to study : read about prefix and post from mdn 
+ 
