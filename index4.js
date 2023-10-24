@@ -32,3 +32,5 @@ false
 // Avoid these kind of code : try to write clean code.
 
 // strict check: ===
+
+// Time : 1:38:40 
