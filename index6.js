@@ -31,7 +31,7 @@ console.log(url.replace('%20', '-'));
 console.log(url.includes("priya"))
 
 // convert string into array based on 
-2 : 29
+
 
 
  // How many are there in string
